@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "882160194113",
+    "project_id": "pinterest-clone-b271d",
+    "storage_bucket": "pinterest-clone-b271d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882160194113:android:9fb40f93fc79a264f86cc0",
+        "android_client_info": {
+          "package_name": "com.example.pinterest_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882160194113-ui31gjpa1ednupekbo55smv42gh32jrh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pinterest_clone",
+            "certificate_hash": "31a66c340ddd1d70e1e15362b7580a23201fdc07"
+          }
+        },
+        {
+          "client_id": "882160194113-cr3vruntqujf8rsf6k05rv1u1kb8iptb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEGOZDz6S3O-or_KJR6FGG-CMzeN8N1Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882160194113-cr3vruntqujf8rsf6k05rv1u1kb8iptb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
